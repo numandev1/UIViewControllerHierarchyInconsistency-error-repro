@@ -1,0 +1,6 @@
+framework module AdjustSigComAnaninjaAppSdk {
+  umbrella header "ADJSigner.h"
+
+  export *
+  module * { export * }
+}
